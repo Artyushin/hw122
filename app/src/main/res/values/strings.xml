@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Картинка</string>
+    <string name="file_name_hint">Имя файла картинки для фона</string>
+</resources>
